@@ -32,7 +32,7 @@ The main objective of this project is to improve data quality and prepare the da
 8. Data Validation
 9. Data Export
 
-# Key Feature
+# Key Features
 * Identified and handled missing values in the dataset.
 * Removed duplicate records to improve data quality.
 * Standardized text fields and column names.
